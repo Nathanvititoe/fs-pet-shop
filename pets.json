@@ -13,5 +13,25 @@
     "age": 3,
     "kind": "dog",
     "name": "jerry"
+  },
+  {
+    "age": 8,
+    "kind": "bird",
+    "name": "ted"
+  },
+  {
+    "age": 2,
+    "kind": "bunny",
+    "name": "rob"
+  },
+  {
+    "age": 5,
+    "kind": "bird",
+    "name": "suzy"
+  },
+  {
+    "age": 5,
+    "kind": "dog",
+    "name": "molly"
   }
 ]
